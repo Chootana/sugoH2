@@ -1,0 +1,8 @@
+cradle:
+  direct:
+    arguments:
+      - -i.
+      - -ich6
+      - ch6/Geometry/Cube.hs
+      - ch6/Geometry/Cuboid.hs
+      - ch6/Geometry/Sphere.hs
