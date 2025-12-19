@@ -3,6 +3,7 @@ cradle:
     arguments:
       - -i.
       - -ich6
+      - -ich7
       - ch6/Geometry/Cube.hs
       - ch6/Geometry/Cuboid.hs
       - ch6/Geometry/Sphere.hs
